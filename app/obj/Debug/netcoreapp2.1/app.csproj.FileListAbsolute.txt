@@ -1,0 +1,11 @@
+D:\工作\code\app\bin\Debug\netcoreapp2.1\app.deps.json
+D:\工作\code\app\bin\Debug\netcoreapp2.1\app.runtimeconfig.json
+D:\工作\code\app\bin\Debug\netcoreapp2.1\app.runtimeconfig.dev.json
+D:\工作\code\app\bin\Debug\netcoreapp2.1\app.dll
+D:\工作\code\app\bin\Debug\netcoreapp2.1\app.pdb
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.csprojAssemblyReference.cache
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.csproj.CoreCompileInputs.cache
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.AssemblyInfoInputs.cache
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.AssemblyInfo.cs
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.dll
+D:\工作\code\app\obj\Debug\netcoreapp2.1\app.pdb
